@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/components/dataproviders
+END
+RAuthItemChildDataProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/components/dataproviders/RAuthItemChildDataProvider.php
+END
+RAssignmentDataProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/components/dataproviders/RAssignmentDataProvider.php
+END
+RPermissionDataProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/components/dataproviders/RPermissionDataProvider.php
+END
+RAuthItemParentDataProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/components/dataproviders/RAuthItemParentDataProvider.php
+END
+RAuthItemDataProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/components/dataproviders/RAuthItemDataProvider.php
+END

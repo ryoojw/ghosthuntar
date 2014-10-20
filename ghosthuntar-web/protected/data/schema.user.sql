@@ -1,0 +1,14 @@
+CREATE TABLE `tbl_user` (
+	
+	`id` INTEGER NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	`email` VARCHAR(255) NOT NULL UNIQUE,
+	`name` VARCHAR(255) NOT NULL,
+	`first_name` VARCHAR(125),
+	`last_name` VARCHAR(125),
+	`type` VARCHAR(45) NOT NULL,
+	`join_date` DATETIME NOT NULL,
+	`active` VARCHAR(45) NOT NULL DEFAULT 'no',
+	`password` VARCHAR(255) NOT NULL,
+	`salt` VARCHAR(125) NOT NULL
+	
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;

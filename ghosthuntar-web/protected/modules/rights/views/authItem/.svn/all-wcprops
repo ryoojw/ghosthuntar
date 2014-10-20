@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/views/authItem
+END
+generate.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/views/authItem/generate.php
+END
+_generateItems.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/views/authItem/_generateItems.php
+END
+permissions.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/views/authItem/permissions.php
+END
+_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/views/authItem/_form.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/views/authItem/update.php
+END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/views/authItem/create.php
+END
+operations.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/views/authItem/operations.php
+END
+roles.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/views/authItem/roles.php
+END
+tasks.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/views/authItem/tasks.php
+END
+_childForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/views/authItem/_childForm.php
+END

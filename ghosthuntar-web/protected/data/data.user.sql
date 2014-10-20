@@ -1,0 +1,2 @@
+INSERT INTO tbl_user(email, name, first_name, last_name, type, join_date, active, password, salt)
+VALUES ('admin@ghosthuntar.com', 'administrator', 'admin', '', 'admin', '2013-01-02 14:09:54', 'yes', '2e5c7db760a33498023813489cfadc0b', '28b206548469ce62182048fd9cf91760');

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/views/install
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/views/install/error.php
+END
+confirm.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/views/install/confirm.php
+END
+ready.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/lemonbricks/!svn/ver/4/trunk/protected/modules/rights/views/install/ready.php
+END

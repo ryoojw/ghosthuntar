@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/lemonbricks3/!svn/ver/2/trunk/protected/extensions/yii-environment/example-index
+END
+.example-htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/lemonbricks3/!svn/ver/2/trunk/protected/extensions/yii-environment/example-index/.example-htaccess
+END
+index-test.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/lemonbricks3/!svn/ver/2/trunk/protected/extensions/yii-environment/example-index/index-test.php
+END
+protected.yiic.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/lemonbricks3/!svn/ver/2/trunk/protected/extensions/yii-environment/example-index/protected.yiic.php
+END
+protected.tests.bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/lemonbricks3/!svn/ver/2/trunk/protected/extensions/yii-environment/example-index/protected.tests.bootstrap.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/lemonbricks3/!svn/ver/2/trunk/protected/extensions/yii-environment/example-index/index.php
+END
