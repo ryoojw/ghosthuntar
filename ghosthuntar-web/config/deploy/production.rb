@@ -20,7 +20,7 @@ server 'ghosthuntar.com',
 set :ssh_options, {
 	keys: %w(/home/deploy/.ssh/github_ghosthuntar_rsa),
 	forward_agent: true,
-	auth_methods: %w(pasword),
+	auth_methods: %w(password),
 	password: 'PASSWORD',
 }
 
