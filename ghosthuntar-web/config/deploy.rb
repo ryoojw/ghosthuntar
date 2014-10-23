@@ -61,6 +61,7 @@ namespace :deploy do
   task :set_permissions do
     on roles(:app) do
       execute "chmod 777 /var/www/vhosts/ghosthuntar/current/ghosthuntar-web/protected/runtime"
+      execute "chmod 777 /var/www/vhosts/ghosthuntar/current/ghosthuntar-web/assets"
     end
   end
 
