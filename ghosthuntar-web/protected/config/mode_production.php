@@ -35,9 +35,9 @@ return array(
 			// Database
 			'db' => array(
 				'class' 			 => 'CDbConnection',
-				'connectionString' 	 => 'mysql:host=127.0.0.1;dbname=GH_PROD_1',
-				'username' 			 => 'root',
-				'password' 			 => 'psybjwr',
+				'connectionString' 	 => 'mysql:host=127.0.0.1;dbname=DBNAME',
+				'username' 			 => 'USERNAME',
+				'password' 			 => 'PASSWORD',
 				'enableParamLogging' => true,
 				'charset' 			 => 'utf8',
 				'tablePrefix' 		 => 'tbl_',

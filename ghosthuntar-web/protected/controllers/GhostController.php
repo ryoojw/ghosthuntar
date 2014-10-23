@@ -11,11 +11,11 @@ class GhostController extends RController {
 	/**
 	 * Rights permissions.
 	 */
-	public function filters() {
+	/*public function filters() {
 		return array(
 			'rights',
 		);
-	}
+	}*/
 
 	/**
 	 * Displays a particular model.
@@ -42,6 +42,9 @@ class GhostController extends RController {
 		if (isset($_POST['Ghost'])) {
 		
 			$model->attributes 	= $_POST['Ghost'];
+
+			//print_r($model->attributes);
+			//die();
 			
 			// Set the elevation biased closer to 0
 			if (rand(0, 10) > 9)
@@ -55,7 +58,8 @@ class GhostController extends RController {
 			else
 				$elevation = (double) rand(0, 299);
 			
-			$model->elevation = $elevation;
+			//$model->elevation = $elevation;
+			$model->elevation = 1;
 			
 			if ($model->save())
 				$this->redirect(array('view', 'id' => $model->id));

@@ -62,7 +62,7 @@ $(function() {
 		
 			cache:   false,
 			type:    'POST',
-			url:     '/Ghost%20HuntAR/ghost/json',
+			url:     '/ghost/json',
 			success: function(data) {
 			
 				var obj = $.parseJSON(data);
